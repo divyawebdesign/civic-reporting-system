@@ -22,7 +22,7 @@ export default function AdminPage() {
           <TabsList className="mb-6">
             <TabsTrigger value="overview" className="flex items-center gap-2">
               <LayoutDashboard className="h-4 w-4" />
-              Overview
+              Overview of all issues
             </TabsTrigger>
             <TabsTrigger value="map" className="flex items-center gap-2">
               <Map className="h-4 w-4" />
